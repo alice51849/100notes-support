@@ -1,0 +1,17 @@
+# 100 Notes Studio: Pen & Paper support
+
+> Official support, help and privacy pages for 100 Notes Studio: Pen & Paper, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6798813048
+- Platform: iOS
+- App Store category: Productivity
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/100notes-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/100notes-support/help.html)
+- [Support and contact](https://open.cait518.cc/100notes-support/support.html)
+- [Privacy policy](https://open.cait518.cc/100notes-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
