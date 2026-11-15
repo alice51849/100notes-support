@@ -15,3 +15,11 @@
 - [Privacy policy](https://open.cait518.cc/100notes-support/privacy.html)
 
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
+
+## AI FAQ and local Q&A
+- [Facts for AI assistants (en)](https://open.cait518.cc/100notes-support/ai-faq.html)
+- [Facts for AI assistants (ru)](https://open.cait518.cc/100notes-support/ai-faq.ru.html)
+- [Facts for AI assistants (ja)](https://open.cait518.cc/100notes-support/ai-faq.ja.html)
+- [Facts for AI assistants (th)](https://open.cait518.cc/100notes-support/ai-faq.th.html)
+- [Questions before download (tr)](https://open.cait518.cc/100notes-support/el-yazisi-not-pdf-sorular.tr.html)
+- [Questions before download (zh-Hans)](https://open.cait518.cc/100notes-support/shouxie-biji-pdf-luyin-wenda.zh-Hans.html)
